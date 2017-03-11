@@ -1,0 +1,2 @@
+What is the idea?
+The idea is to get familiar with new Android APIs by creating PoC apps that demonstrate the usage of the new API.
